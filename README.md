@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on OpenCV and inference engine.
-- 🌱 I’m currently triton, mlir.
-- 📫 How to reach me: zihaomu@outlook.com
+
+- 📫 How to reach me: zihaomu6@gmail.com
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zihaomu&theme=vue)
 
