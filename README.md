@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on OpenCV and inference engine.
+- 🔭 I currently work at AMD.
 
 - 📫 How to reach me: zihaomu6@gmail.com
 
